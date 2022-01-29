@@ -3,7 +3,7 @@
 - Engine: Unity
 - Gerne: Roguelike
 
-### Description
+## Description
 Now, you become a weak chick.
 
 Your mission is to survive against ruthless monsters chasing you incessantly!
@@ -20,6 +20,19 @@ But, don't underestimate the monsters.
 During the game, boss monsters of larger physique and power appear.
 
 They use a few threatening skills of longer attack range than yours, which stimulates your amazing control ability.
+
+## Manual
+**Move up**: w
+
+**Move right**: d
+
+**Move down**: s
+
+**Move left**: a
+
+**Attack**: left mouse click
+
+**Shift**: run
 
 ##
 ![chick_adventure_image1](https://user-images.githubusercontent.com/39285147/151664287-105f7ae9-c634-4398-8f1e-eaf07c75a665.png)
